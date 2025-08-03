@@ -1,0 +1,26 @@
+p{
+    font-family: Arial;
+}
+.web-name{
+    font-weight:bold ;
+    font-size: 18px;
+}
+.username{
+    color: grey;
+    font-weight: none;
+    text-decoration: none;
+}
+.content{
+    font-size: 16px;
+    width: 550px;
+    margin-bottom: 20px;
+}
+.content2{
+    font-size: 16px;
+    width: 600px;
+}
+.source{
+    font-weight: none;
+    text-decoration: none;
+}
+
