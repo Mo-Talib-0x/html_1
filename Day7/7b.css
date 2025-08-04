@@ -1,0 +1,9 @@
+.center-image{
+        width: 200px;
+        height: 200Px;
+        object-position: center;
+        object-fit: cover;
+        border-radius:2px;
+        border-color: red;
+        border-style: solid;
+        }
