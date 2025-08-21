@@ -1,0 +1,13 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    height: 50px;
+    align-items: center;
+}
+.lightpink{
+    background-color: lightpink;
+}
