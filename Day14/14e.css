@@ -1,0 +1,49 @@
+.container{
+    position:fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 65px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.profile{
+    padding-left: 200px;
+    display: flex;
+    align-items: center;
+}
+.pp{
+    height: 46px;
+    width: 46px;
+    border-radius: 23px;
+    cursor: pointer;
+}
+.name{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 4px;
+    cursor: pointer;
+}
+.buttons{
+    padding-right: 200px;
+}
+.button{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.add-button{
+    background-color: rgb(75, 148, 243);
+    color: white;
+    margin-right:5px ;
+}
+.message-button{
+    background-color: rgb(221, 225, 227);
+}
