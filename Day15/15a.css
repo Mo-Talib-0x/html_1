@@ -1,0 +1,36 @@
+body{
+    height: 3000px;
+}
+
+.pic{
+    background-color: rgb(192, 187, 187);
+    height: 180px;
+    width: 320px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+.close-button{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border: none;
+    width: 40px;
+    height: 40px;
+    font-family: Arial;
+    font-size: 20px;
+    border-radius: 25px;
+    position: absolute;
+    top: -17px;
+    left: -17px;
+}
+.timestamp{
+    position: absolute;
+    bottom: 10px;
+    right: 14px;
+    background-color: black;
+    color: white;
+    padding: 5px 5px;
+    border-radius: 2px;
+
+}
